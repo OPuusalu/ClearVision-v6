@@ -80,7 +80,7 @@
   --backdrop-blur: var(--background-blur); /* modal backdrop blur [default: var(--background-blur)] */
 
   /* USER POPOUT BACKGROUND */
-  --user-popout-image: var(--background-image); /* app background image (link must be HTTPS) [default: var(--background-image)] */
+  --user-popout-image: var(--background-image);
   --user-popout-position: var(--background-position); /* user popout background position [default: var(--background-position)] */
   --user-popout-size: var(--background-size); /* user popout background size [default: var(--background-size)] */
   --user-popout-repeat: var(--background-repeat); /* user popout background repeat [default: var(--background-repeat)] */
