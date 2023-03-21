@@ -40,9 +40,10 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://i.waifu.pics/jFC6kHR.jpg);
-    /*url(https://cdn.discordapp.com/attachments/958489533769461783/1082008123604218028/image.png); 
-    url(https://media.tenor.com/bU6dGAk-cs4AAAAC/crying-anime.gif); url(https://i.waifu.pics/jFC6kHR.jpg);*/
+  --background-image: url(https://cdn.donmai.us/original/4d/28/__original_drawn_by_kenzo_093__4d28e451de7ea4482b87bf6cb89d0607.jpg);
+  /*url(https://i.waifu.pics/jFC6kHR.jpg);
+  url(https://cdn.discordapp.com/attachments/958489533769461783/1082008123604218028/image.png); 
+  url(https://media.tenor.com/bU6dGAk-cs4AAAAC/crying-anime.gif); url(https://i.waifu.pics/jFC6kHR.jpg);*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
